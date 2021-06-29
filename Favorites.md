@@ -1,0 +1,6 @@
+## Favorites
+
+Color
+- blue
+- red
+
